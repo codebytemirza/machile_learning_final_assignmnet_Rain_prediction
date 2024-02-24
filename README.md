@@ -1,6 +1,4 @@
-# machile_learning_final_assignmnet_Rain_prediction
-
-Sure! Here's a detailed description of the entire project:
+# machile learning final assignmnet Rain prediction
 
 **Project Overview:**
 The project aims to build and evaluate machine learning models for predicting whether it will rain the following day. The dataset used for this project is obtained from the Australian Government's Bureau of Meteorology, containing various weather-related features such as rainfall, wind direction, humidity, etc. The project involves data preprocessing, model building, evaluation, and comparison using different classification algorithms.
