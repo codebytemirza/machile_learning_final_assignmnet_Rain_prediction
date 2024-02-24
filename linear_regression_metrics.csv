@@ -1,0 +1,4 @@
+Metric,Value
+Mean Absolute Error (MAE),0.25631740875826536
+Mean Squared Error (MSE),0.11572037515465203
+R2-score,0.427133135434268
